@@ -7,3 +7,5 @@ part_2_mars_weather.ipynb
 
 CSV file created in Part 2:
 mars_temps.csv
+
+The file titles says Module 12 Challenge, but they are actually Module 11 Challenge. 
